@@ -1,3 +1,5 @@
+
+
 // ScalarProduct.cc
 // Calculating the scalar product between vectors input by user
 
