@@ -1,0 +1,5 @@
+zmienna := wart_pocz
+while zmienna ? wart_konc do
+  ci¹g instrukcji
+  zmienna := zmienna + krok
+endwhile 
